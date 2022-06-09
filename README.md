@@ -1,6 +1,8 @@
 # Data-Innovation-Application-Competition
 2022/3 ~2022/6  data contest
 
+![Uploading image.png…]()
+
 # demo 
 https://www.youtube.com/watch?v=znyYAMQqEug
 ![image](https://user-images.githubusercontent.com/89075193/172769238-8fe5951c-9bb8-4712-8818-f64e41774967.png)
